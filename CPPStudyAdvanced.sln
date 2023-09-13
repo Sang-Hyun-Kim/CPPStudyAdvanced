@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FUNCTOR", "FUNCTOR\FUNCTOR.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Template_Basic", "Template_Basic\Template_Basic.vcxproj", "{02FCDF60-B577-48F0-BE17-F164E4FBDECE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Callback", "Callback\Callback.vcxproj", "{2A03C843-68EA-4AAE-B9CE-151841152C5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{02FCDF60-B577-48F0-BE17-F164E4FBDECE}.Release|x64.Build.0 = Release|x64
 		{02FCDF60-B577-48F0-BE17-F164E4FBDECE}.Release|x86.ActiveCfg = Release|Win32
 		{02FCDF60-B577-48F0-BE17-F164E4FBDECE}.Release|x86.Build.0 = Release|Win32
+		{2A03C843-68EA-4AAE-B9CE-151841152C5C}.Debug|x64.ActiveCfg = Debug|x64
+		{2A03C843-68EA-4AAE-B9CE-151841152C5C}.Debug|x64.Build.0 = Debug|x64
+		{2A03C843-68EA-4AAE-B9CE-151841152C5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A03C843-68EA-4AAE-B9CE-151841152C5C}.Debug|x86.Build.0 = Debug|Win32
+		{2A03C843-68EA-4AAE-B9CE-151841152C5C}.Release|x64.ActiveCfg = Release|x64
+		{2A03C843-68EA-4AAE-B9CE-151841152C5C}.Release|x64.Build.0 = Release|x64
+		{2A03C843-68EA-4AAE-B9CE-151841152C5C}.Release|x86.ActiveCfg = Release|Win32
+		{2A03C843-68EA-4AAE-B9CE-151841152C5C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
