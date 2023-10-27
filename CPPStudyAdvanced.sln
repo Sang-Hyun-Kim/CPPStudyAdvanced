@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Callback", "Callback\Callba
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModernCPP_001_Auto", "ModernCPP_001_Auto\ModernCPP_001_Auto.vcxproj", "{3A7D9494-CED9-4326-8166-16F58197853A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "parenthesis initialization", "parenthesis initialization\parenthesis initialization.vcxproj", "{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{3A7D9494-CED9-4326-8166-16F58197853A}.Release|x64.Build.0 = Release|x64
 		{3A7D9494-CED9-4326-8166-16F58197853A}.Release|x86.ActiveCfg = Release|Win32
 		{3A7D9494-CED9-4326-8166-16F58197853A}.Release|x86.Build.0 = Release|Win32
+		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Debug|x64.ActiveCfg = Debug|x64
+		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Debug|x64.Build.0 = Debug|x64
+		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Debug|x86.ActiveCfg = Debug|Win32
+		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Debug|x86.Build.0 = Debug|Win32
+		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Release|x64.ActiveCfg = Release|x64
+		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Release|x64.Build.0 = Release|x64
+		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Release|x86.ActiveCfg = Release|Win32
+		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
