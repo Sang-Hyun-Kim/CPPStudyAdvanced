@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModernCPP_001_Auto", "Moder
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "parenthesis initialization", "parenthesis initialization\parenthesis initialization.vcxproj", "{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STLwithAlgorithmExample", "STLwithAlgorithmExample\STLwithAlgorithmExample.vcxproj", "{F13FFE0B-ADEF-4D34-AF4A-58D9C36416E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Release|x64.Build.0 = Release|x64
 		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Release|x86.ActiveCfg = Release|Win32
 		{70FC9966-CD04-4164-AAF9-BE30A7EAEEF0}.Release|x86.Build.0 = Release|Win32
+		{F13FFE0B-ADEF-4D34-AF4A-58D9C36416E1}.Debug|x64.ActiveCfg = Debug|x64
+		{F13FFE0B-ADEF-4D34-AF4A-58D9C36416E1}.Debug|x64.Build.0 = Debug|x64
+		{F13FFE0B-ADEF-4D34-AF4A-58D9C36416E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{F13FFE0B-ADEF-4D34-AF4A-58D9C36416E1}.Debug|x86.Build.0 = Debug|Win32
+		{F13FFE0B-ADEF-4D34-AF4A-58D9C36416E1}.Release|x64.ActiveCfg = Release|x64
+		{F13FFE0B-ADEF-4D34-AF4A-58D9C36416E1}.Release|x64.Build.0 = Release|x64
+		{F13FFE0B-ADEF-4D34-AF4A-58D9C36416E1}.Release|x86.ActiveCfg = Release|Win32
+		{F13FFE0B-ADEF-4D34-AF4A-58D9C36416E1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
